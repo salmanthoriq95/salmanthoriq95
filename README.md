@@ -29,4 +29,5 @@ I'm working as backend using JavaScript and TypeScript in NodeJs, we build regis
 <a href="https://github.com/salmanthoriq95"><img src="https://img.shields.io/badge/Github-brightgreen?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://gitlab.com/salmanthoriq95"><img src="https://img.shields.io/badge/Github-brightgreen?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 <a href="mailto:salmanthoriq95@gmail.com"><img src="https://img.shields.io/badge/Gmail-brightgreen?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/salmanthoriq95/"><img src="https://img.shields.io/badge/Linkedin-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
