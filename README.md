@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/codefactor-brightgreen?style=for-the-badge&logo=codefactor&logoColor=white">
 </p>
 
-<img width="295" align="right" src="./public/img/waving-hand-anime.gif"> 
+<img width="50%" align="left" src="./public/img/waving-hand-anime.gif"> 
+<img width="50%" src="./public/img/waving-hand-anime.gif"> 
 
 ---
 
