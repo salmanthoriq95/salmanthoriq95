@@ -49,6 +49,7 @@ I'm working as backend using JavaScript and TypeScript in NodeJs, we build regis
 
 ## :globe_with_meridians: Open Projects
 
+<div align="center">
 <table>
   <thead align="center">
     <tr border: none;>
@@ -76,3 +77,4 @@ I'm working as backend using JavaScript and TypeScript in NodeJs, we build regis
     </tr>
   </tbody>
 </table>
+</div>
