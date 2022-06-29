@@ -16,10 +16,10 @@
   <img src="https://img.shields.io/badge/codefactor-brightgreen?style=for-the-badge&logo=codefactor&logoColor=white">
 </p>
 
+<img width="295" align="right" src="./public/img/waving-hand-anime.gif"> 
+
 ---
 
-<img width="250" align="right" src="./public/img/waving-hand-anime.gif">
-<p align="justify">
 My name is Salman Thoriq Al Farisyi. I am a developer who usually uses NodeJS. I love all things technology and innovation. I like to learn new things and love books as well as coding. I currently live in Indonesia and work in Jakarta as a backend developer. You can contact me at salmanthoriq95@gmail.com.
 
 ---
