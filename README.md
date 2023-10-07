@@ -40,10 +40,22 @@ My name is Salman Thoriq Al Farisyi. I am a developer who usually uses NodeJS. I
 
 ## :briefcase: Experience
 
+<img width="250" align="left" src="https://www.kelola.co.id/images/logo-kelola.png">
+<p align="justify">
+I worked in <a href="https://www.kelola.co.id/">Kelola Teknologi Digital</a> from January 2023 - June 2023. 
+I worked as a full-stack developer using Javascript, ReactJs, ExpressJs, and NodeJs. We built a billing system for internet service providers who rent BTS to Menkominfo.
+</p>
+<br><br>
+<img width="250" align="left" src="https://bangunindo.com/backend_assets/img/logo.png">
+<p align="justify">
+I worked in <a href="https://bangunindo.com">Bangunindo Teknusa Jaya</a> from August 2022 - January 2023. 
+I worked as a backend developer using Python and Flask, we built a billing system for internet service providers who rent BTS to Menkominfo.
+</p>
+<br><br>
 <img width="250" align="left" src="https://www.inovasisolusi.com/wp-content/uploads/2019/05/Logo-9-1.png">
 <p align="justify">
-I currently work in <a href="https://www.inovasisolusi.com/">Inovasi Solusi Internasional</a> started in March 2021. 
-I'm working as backend using JavaScript and TypeScript in NodeJs, we build registration system for Market Trade.
+I worked in <a href="https://www.inovasisolusi.com/">Inovasi Solusi Internasional</a> from March 2021 - August 2022. 
+I worked as a backend developer using JavaScript and TypeScript in NodeJs, we built a registration system for Market Trade.
 </p>
 
 ---
