@@ -43,7 +43,7 @@ My name is Salman Thoriq Al Farisyi. I am a developer who usually uses NodeJS. I
 <img width="250" align="left" src="https://www.kelola.co.id/images/logo-kelola.png">
 <p align="justify">
 I worked in <a href="https://www.kelola.co.id/">Kelola Teknologi Digital</a> from January 2023 - June 2023. 
-I worked as a full-stack developer using Javascript, ReactJs, ExpressJs, and NodeJs. We built a billing system for internet service providers who rent BTS to Menkominfo.
+I worked as a full-stack developer using Javascript, ReactJs, ExpressJs, and NodeJs. We built an e-learning website and health-tracking system for farmers.
 </p>
 <br><br>
 <img width="250" align="left" src="https://bangunindo.com/backend_assets/img/logo.png">
