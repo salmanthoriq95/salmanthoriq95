@@ -31,9 +31,6 @@ I care about structure, clarity, and things not being unnecessarily complicated.
 
 ---
 
-<img width="52%" align="left" src ="https://github-readme-stats.vercel.app/api?username=salmanthoriq95&show_icons=true&theme=vue-dark&hide_border=true">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanthoriq95&show_icons=true&theme=vue-dark&layout=compact&hide_border=true">
-
 </p>
 <p align="center">
 <a href="https://web.facebook.com/salmanthoriq95"><img src="https://img.shields.io/badge/Facebook-brightgreen?style=for-the-badge&logo=facebook&logoColor=white"></a>
